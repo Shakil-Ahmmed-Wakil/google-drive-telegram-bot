@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "2130162159:AAE-6Xaxmf9CMxUFrC230mPKMgK2RQ77zpc"
+    APP_ID = "15676377"
+    API_HASH = "bdef81fcec74abf0a807713617e7dd01"
+    DATABASE_URL = "postgres://svynwmysqxsrix:094a29bf873ae5527e4f7476812e5dee7b291829ddfbfd222f74cacbc323fe88@ec2-3-230-219-251.compute-1.amazonaws.com:5432/d32c13p10bl06o"
+    SUDO_USERS = "1474765931" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/modapksky"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "604173572070-1tcajetl08sq33nf341un5cmuuqsgcq3.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
@@ -38,7 +38,7 @@ class Messages:
         "**Rules & Precautions**\n__1. Don't copy BIG Google Drive Files/Folders. It may hang the bot and your files maybe damaged.\n2. Send One request at a time unless bot will stop all processes.\n3. Don't send slow links @transload it first.\n4. Don't misuse, overload or abuse this free service.__",
         
         # Dont remove this ↓ if you respect developer.
-        "**Developed by @viperadnan**"
+        "**Developed by @shakilahmmedwakil**"
         ]
      
     RATE_LIMIT_EXCEEDED_MESSAGE = "❗ **Rate Limit Exceeded.**\n__User rate limit exceeded try after 24 hours.__"
